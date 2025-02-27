@@ -1,0 +1,74 @@
+16:46:30.401 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+16:46:30.443 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:46:32.964 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:46:33.446 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:46:33.920 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+16:46:34.440 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+16:46:36.266 [main] INFO  testCases.TC002_LoginTest - ***** Stating TC002_LoginTest ****
+16:46:40.322 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest ****
+16:48:24.663 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+16:48:28.523 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:48:31.895 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+16:48:31.911 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:48:52.728 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:48:54.369 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+16:49:16.015 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\grouping.xml
+
+16:49:18.138 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+16:49:18.172 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+16:49:20.892 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+16:49:21.366 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:49:21.853 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+16:49:22.384 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+16:49:23.841 [main] INFO  testCases.TC002_LoginTest - ***** Stating TC002_LoginTest ****
+16:59:57.546 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\test-output\testng-failed.xml
+
+17:00:02.566 [main] INFO  testCases.TC002_LoginTest - ***** Stating TC002_LoginTest ****
+17:00:06.576 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest ****
+15:27:13.056 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+15:27:35.059 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+15:27:35.113 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:27:38.589 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link
+15:27:39.220 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:27:39.695 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+15:27:40.429 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Finished TC001_AccountRegistrationTest *****
+15:27:42.075 [main] INFO  testCases.TC002_LoginTest - ***** Stating TC002_LoginTest ****
+15:27:46.353 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest ****
+15:28:22.765 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+15:28:24.770 [main] INFO  testCases.TC001_AccountRegistrationTest - ***** Starting TC001_AccountRegistrationTest *****
+15:28:24.801 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link
+15:32:04.782 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+15:33:21.620 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+15:35:38.046 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+15:37:52.275 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+15:40:19.336 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+15:42:16.562 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\crossbrowsertesting.xml
+
+15:45:51.247 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+15:49:33.440 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+15:51:13.374 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+

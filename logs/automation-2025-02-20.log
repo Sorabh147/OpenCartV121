@@ -1,0 +1,80 @@
+18:45:12.127 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+18:46:45.045 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+18:47:53.107 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+18:49:08.756 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+18:49:11.082 [main] INFO  testCases.TC002_LoginTest - ***** Stating TC002_LoginTest ****
+18:49:15.612 [main] INFO  testCases.TC002_LoginTest - ***** Finished TC002_LoginTest ****
+18:50:41.868 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+18:53:08.043 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+18:54:54.943 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+19:06:58.257 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+19:10:58.591 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+19:16:07.126 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+19:17:49.515 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+19:23:20.922 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+19:23:25.068 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:23:37.274 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:23:37.278 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:23:48.034 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:23:48.037 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:23:58.704 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:23:58.709 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:24:09.343 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:24:09.345 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:24:19.952 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:24:19.956 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:24:30.561 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:28:59.199 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+19:29:02.427 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:29:15.921 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:29:15.925 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:29:26.678 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:29:26.681 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:29:37.448 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:29:37.451 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:29:48.049 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:29:48.053 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:29:58.689 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:29:58.691 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:30:09.328 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:34:57.132 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
+19:35:00.456 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:35:13.574 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:35:13.582 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:35:24.326 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:35:24.331 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:35:25.392 [main] INFO  testCases.TC003_LoginDDT - ***** Finished TC003_LoginDDT *****
+19:35:25.394 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:35:35.504 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+19:35:45.573 [main] INFO  testCases.TC003_LoginDDT - ***** Starting TC003_LoginDDT *****
+20:00:52.126 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Workspace\seleniumwebdriver\OpenCartV121\Master.xml
+
